@@ -1,6 +1,6 @@
-# Alışveriş sepeti
+# Alışveriş sepeti 
 
-# Panel ürün girişi
+# JavaScript ile  dinamikleştirilmiş panel ürün girişi
 
 # Ekran görüntüsü
 
