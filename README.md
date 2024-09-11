@@ -5,4 +5,3 @@
 # Ekran görüntüsü
 
 # ![](sepet.gif)
-# Crud-App
